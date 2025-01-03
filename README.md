@@ -2,6 +2,7 @@
 Github: https://github.com/topgun101/explorative_data_analysis
 
 ## Features and running instructions
+- clone the repository
 - open **geo_data_visuals.ipynb** in jupyter notebook
 - ensure that all required libraries are installed
 - run all cells
